@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ISNP966920_Unidad1/1.0.0": {
+        "runtime": {
+          "ISNP966920_Unidad1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ISNP966920_Unidad1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

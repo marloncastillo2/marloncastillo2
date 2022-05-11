@@ -1,0 +1,11 @@
+D:\UGB\Progra2\Evaluacion1\Ejercicio1\ISNP966920_Unidad1\bin\Debug\netcoreapp3.1\ISNP966920_Unidad1.exe
+D:\UGB\Progra2\Evaluacion1\Ejercicio1\ISNP966920_Unidad1\bin\Debug\netcoreapp3.1\ISNP966920_Unidad1.deps.json
+D:\UGB\Progra2\Evaluacion1\Ejercicio1\ISNP966920_Unidad1\bin\Debug\netcoreapp3.1\ISNP966920_Unidad1.runtimeconfig.json
+D:\UGB\Progra2\Evaluacion1\Ejercicio1\ISNP966920_Unidad1\bin\Debug\netcoreapp3.1\ISNP966920_Unidad1.runtimeconfig.dev.json
+D:\UGB\Progra2\Evaluacion1\Ejercicio1\ISNP966920_Unidad1\bin\Debug\netcoreapp3.1\ISNP966920_Unidad1.dll
+D:\UGB\Progra2\Evaluacion1\Ejercicio1\ISNP966920_Unidad1\bin\Debug\netcoreapp3.1\ISNP966920_Unidad1.pdb
+D:\UGB\Progra2\Evaluacion1\Ejercicio1\ISNP966920_Unidad1\obj\Debug\netcoreapp3.1\ISNP966920_Unidad1.csprojAssemblyReference.cache
+D:\UGB\Progra2\Evaluacion1\Ejercicio1\ISNP966920_Unidad1\obj\Debug\netcoreapp3.1\ISNP966920_Unidad1.AssemblyInfoInputs.cache
+D:\UGB\Progra2\Evaluacion1\Ejercicio1\ISNP966920_Unidad1\obj\Debug\netcoreapp3.1\ISNP966920_Unidad1.AssemblyInfo.cs
+D:\UGB\Progra2\Evaluacion1\Ejercicio1\ISNP966920_Unidad1\obj\Debug\netcoreapp3.1\ISNP966920_Unidad1.dll
+D:\UGB\Progra2\Evaluacion1\Ejercicio1\ISNP966920_Unidad1\obj\Debug\netcoreapp3.1\ISNP966920_Unidad1.pdb
